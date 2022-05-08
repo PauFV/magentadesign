@@ -206,3 +206,76 @@ form .form-control {
   text-align: center;
   padding: 30px;
 }
+
+/* Mobile */
+@media (max-width: 700px) {
+  /* Mainheader */
+  #mainheader {
+    height: 100%;
+  }
+
+  /* Navbar */
+  #navbar {
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
+  #navbar .logo {
+    float: none;
+    text-align: center;
+    padding-top: 20px;
+    font-size: 25px;
+    height: 100%;
+  }
+  #navbar ul {
+    float: none;
+    padding-left: 50px;
+  }
+
+  /* Showcase */
+  #showcase {
+    padding: 20px 0;
+  }
+  #showcase .showcase-row {
+    flex-wrap: wrap;
+  }
+  #showcase .showcase-row-txt {
+    padding-right: 0;
+    text-align: center;
+    padding-bottom: 40px;
+  }
+  #showcase .showcase-row-img {
+    padding-left: 0;
+  }
+  #showcase .showcase-row-img img {
+    width: 100%;
+  }
+
+  /* Services */
+  #services {
+    padding: 40px 0;
+  }
+  #services h2,
+#services p.large {
+    width: 100%;
+  }
+  #services .services-row {
+    flex-wrap: wrap;
+    padding-top: 0;
+  }
+  #services .services-row-box {
+    padding: 10px;
+  }
+
+  /* Contact */
+  #contact {
+    padding: 40px 0;
+  }
+  #contact h2,
+#contact p.large {
+    width: 100%;
+  }
+  #contact form {
+    padding-top: 30px;
+    width: 100%;
+  }
+}
