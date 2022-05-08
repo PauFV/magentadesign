@@ -7,7 +7,7 @@
 
 html,
 body {
-  background-color: #6b0330;
+  background-color: #87033c;
   color: #ff9898;
   font-family: "Noto Sans", sans-serif;
   line-height: 1.6;
@@ -63,13 +63,13 @@ a {
 }
 
 .btn-dark {
-  background: #c26c88;
+  background: #1c2c86;
   border: none;
   color: #FFF;
 }
 
 .txt-secondary {
-  color: #c26c88;
+  color: #1c2c86;
 }
 
 form label {
@@ -202,7 +202,7 @@ form .form-control {
 
 /* Footer */
 #mainfooter {
-  background: #6b0330;
+  background: #87033c;
   text-align: center;
   padding: 30px;
 }
