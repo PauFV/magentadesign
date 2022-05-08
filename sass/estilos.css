@@ -9,7 +9,7 @@
 html,
 body {
   background-color: #3c051d;
-  color: #ff9898;
+  color: #e298ff;
   font-family: "Noto Sans", sans-serif;
   line-height: 1.6;
   font-weight: 100;
@@ -201,7 +201,7 @@ form .form-control {
 
 #services .services-row-box h4,
 #services .services-row-box p {
-  text-align: center;
+  text-align: justify;
 }
 
 /* Contact */
@@ -269,7 +269,7 @@ form .form-control {
   }
   #showcase .showcase-row-txt {
     padding-right: 0;
-    text-align: center;
+    text-align: justify;
     padding-bottom: 40px;
   }
   #showcase .showcase-row-img {

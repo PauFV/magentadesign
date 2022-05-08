@@ -14,7 +14,7 @@ $gray-color: #4D4D4D;
 html,
 body {
   background-color: $primary-color;
-  color: #ff9898;
+  color: #e298ff;
   font-family: $font-stack;
   line-height: 1.6;
   font-weight: 100;
@@ -177,7 +177,7 @@ a { text-decoration: none; }
         padding: 20px;
         h4,
         p {
-          text-align: center;
+          text-align: justify;
         }
       } //End #services .services-row &-box
     } //End #services .services-row
@@ -245,7 +245,7 @@ a { text-decoration: none; }
         flex-wrap: wrap;
         &-txt {
           padding-right: 0;
-          text-align: center;
+          text-align: justify;
           padding-bottom: 40px;
         } //End #showcase .showcase-row &-txt
         &-img {
