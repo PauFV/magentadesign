@@ -1,8 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100;0,200;0,300;0,500;1,100&display=swap');
 
 $font-stack: 'Noto Sans', sans-serif;
-$primary-color: #3c051d;
-$secondary-color: #4e5891;
+$primary-color: #270312;
+$secondary-color: #708eb3;
 $gray-color: #4D4D4D;
 
 * {
@@ -64,7 +64,7 @@ a { text-decoration: none; }
   .btn-dark {
     background: $secondary-color;
     border: none;
-    color: rgb(84, 218, 225);
+    color: #031037;
   }
 
   .txt-secondary {
@@ -112,6 +112,7 @@ a { text-decoration: none; }
     a {
       color: #6acad6;
       font-weight: bold;
+      font-size: 18px;
     }  
     .logo {
       float: left;
