@@ -7,7 +7,7 @@
 
 html,
 body {
-  background-color: #87033c;
+  background-color: #3c051d;
   color: #ff9898;
   font-family: "Noto Sans", sans-serif;
   line-height: 1.6;
@@ -63,13 +63,13 @@ a {
 }
 
 .btn-dark {
-  background: #1c2c86;
+  background: #4e5891;
   border: none;
-  color: #FFF;
+  color: #54dae1;
 }
 
 .txt-secondary {
-  color: #1c2c86;
+  color: #4e5891;
 }
 
 form label {
@@ -85,7 +85,7 @@ form .form-control {
   padding: 7px 12px;
   font-size: 1rem;
   line-height: 1.5;
-  color: #495057;
+  color: #485766;
   background-color: #fff;
   background-clip: padding-box;
   border: 1px solid #FFF;
@@ -109,7 +109,8 @@ form .form-control {
   padding-bottom: 20px;
 }
 #navbar a {
-  color: #fff;
+  color: #6acad6;
+  font-weight: bold;
 }
 #navbar .logo {
   float: left;
@@ -202,7 +203,7 @@ form .form-control {
 
 /* Footer */
 #mainfooter {
-  background: #87033c;
+  background: #3c051d;
   text-align: center;
   padding: 30px;
 }
